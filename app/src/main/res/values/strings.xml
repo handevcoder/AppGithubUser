@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AppGithub</string>
+
+    <string name="search_user">Search User</string>
+    <string name="txt_username">Username</string>
+    <string name="txt_followers">Followers</string>
+    <string name="txt_following">Following</string>
+    <string name="txt_company">Company</string>
+    <string name="txt_location">Location</string>
+    <string name="settings">Settings</string>
+    <string name="favorite">favorite</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="daily_key">Daily</string>
+    <string name="txt_Notification">Notification</string>
+    <string name="attachment_summary_off">Notif Off</string>
+    <string name="attachment_summary_on">Notif On</string>
+    <string name="daily_title">Daily Notification at 9 am</string>
+    <string name="daily_notif_text">Hello this is notification done.</string>
+    <string name="avatar">avatar url</string>
+    <string name="btn_favorite">button favorite</string>
+    <string-array name="tab_follow">
+        <item>Followers</item>
+        <item>Following</item>
+    </string-array>
+
+</resources>

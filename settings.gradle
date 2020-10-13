@@ -1,0 +1,3 @@
+rootProject.name='AppGithub'
+include ':app'
+include ':appfav'
